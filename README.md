@@ -1,6 +1,6 @@
 # Marketing API SDK for Python
 
-[![Build Status](https://travis-ci.org/facebook/facebook-python-ads-sdk.svg)](https://travis-ci.org/facebook/facebook-python-ads-sdk)
+[![Build Status](https://travis-ci.org/facebook/facebook-python-ads-sdk.svg)](https://travis-ci.org/facebook/facebook-python-ads-sdk) [![Join the chat at https://gitter.im/Hello100blog1/hello100blog-python-ads-sdk](https://badges.gitter.im/Hello100blog1/hello100blog-python-ads-sdk.svg)](https://gitter.im/Hello100blog1/hello100blog-python-ads-sdk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## The Ads SDK for Python provides an easy interface and abstraction to the Marketing API.
 
